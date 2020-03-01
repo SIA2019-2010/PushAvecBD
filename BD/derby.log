@@ -1,14 +1,14 @@
-Sun Mar 01 20:03:00 CET 2020 : Apache Derby Network Server - 10.10.2.0 - (1582446) démarré et prêt à accepter les connexions sur le port 1527
+Sun Mar 01 20:30:32 CET 2020 : Apache Derby Network Server - 10.10.2.0 - (1582446) dÃ©marrÃ© et prÃªt Ã  accepter les connexions sur le port 1527
 ----------------------------------------------------------------
-Sun Mar 01 20:03:00 CET 2020:
-Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) : instance a816c00e-0170-977a-ed0e-ffffd3d975e6 
-dans le répertoire de base de données C:\Users\tahri\WarriorsSIA2020\PushAvecBD\BD\BDArticle avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
-Chargé de file:/C:/Program%20Files%20(x86)/glassfish-4.1.2/glassfish-4.1.2/javadb/lib/derby.jar
+Sun Mar 01 20:31:06 CET 2020:
+AmorÃ§age de Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) : instance a816c00e-0170-9794-1eb8-ffffd8107f7e 
+dans le rÃ©pertoire de base de donnÃ©es /Users/lixin/Desktop/Test5/PushAvecBD/BD/BDArticle avec le chargeur de classe sun.misc.Launcher$AppClassLoader@6f94fa3e
+ChargÃ© de file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_221-b11
-user.dir=C:\Program Files (x86)\glassfish-4.1.2\glassfish-4.1.2\javadb
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=C:\Users\tahri\WarriorsSIA2020\PushAvecBD\BD
-Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=/Users/lixin/Desktop/Test5/PushAvecBD/BD
+Chargeur de classe de la base de donnÃ©es dÃ©marrÃ© - derby.database.classpath = ''
